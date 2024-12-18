@@ -37,7 +37,7 @@ class TestLogin():
             assert False
 
         # self.driver.close()
-        self.logger.info("***End of the test_001_login***")
+        # self.logger.info("***End of the test_001_login***")
            
         
         # return DashboardPage(self.driver) 
